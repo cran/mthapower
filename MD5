@@ -1,7 +1,10 @@
-c540a45e49d1b31b4875b50c0c1f91c2 *DESCRIPTION
+ff784e4b3725d80e3f0a5b6521660004 *DESCRIPTION
 413ce57d6bb839777957dbe42dd19655 *NAMESPACE
-b143840dfadebedb4010767b98f127f3 *R/mthacases.R
-c62b0105c84baa540463612a03ab38e3 *R/mthapower.R
-d2028b204e6b089537a378ee92615384 *README.md
-cec0438c678cce8c628d6a6d8bc7df91 *man/mthacases.Rd
-e12906fa53285d85016a89f9d931c253 *man/mthapower.Rd
+d5ccdf0806afb494b74a7ce3ffcfe661 *R/mthacases.R
+8ef7671f7b94c4d73a818a6bed20dcc6 *R/mthapower.R
+15e8128b2e87cbd6a3253c65b8fbcd50 *README.md
+b6115943108c0960ed2a11ab8aaff099 *man/figures/README-example-1.png
+b417b4b61a21e13fafc348ed01c7cab5 *man/figures/README-example2b-1.png
+29d69c6159ad5723b499813a3dae8276 *man/figures/mthapower.png
+f0ffe8a69177b610b08cc2b48517f259 *man/mthacases.Rd
+9a22935c5d1c8d895f8c1ea5877ab9eb *man/mthapower.Rd
